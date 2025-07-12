@@ -1,0 +1,95 @@
+﻿Hospital
+----------
+Login,
+View Physicians,
+
+View Brad Details,
+
+View All Patient Records,
+
+Views All Medication Transactions,
+
+Generate Disease Hash Code,
+
+Views All Disease Records By Block chain,
+
+View Disease Results.
+
+
+
+Brad
+-----------
+
+Register and Login,
+Read Sensor Data and Upload,
+
+Views All Medication Transactions,
+
+
+Physician
+--------
+
+Register and Login,
+View Patient Records,
+
+View Patient Records With Solution,
+
+Views All Medication Transactions.
+
+
+
+Members
+---------
+ID,
+Report Name, 
+Medical Contents,
+Trapdoor,
+Rank,
+Date & Time, 
+Data Owner, 
+Patient Name, 
+Medical History, 
+Disease, 
+Age, 
+Gender, 
+Address. 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
